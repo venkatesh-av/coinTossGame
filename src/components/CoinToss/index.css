@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.main-container {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.main-heading {
+  margin: 0px;
+  color: #a35200;
+  font-size: 40px;
+}
+
+.img-toss {
+  width: 250px;
+  max-width: 400px;
+}
+
+.card-container {
+  background-color: white;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.main-des {
+  color: #334155;
+  font-size: 26px;
+}
+
+button {
+  background-color: #f9d423;
+  color: #a35200;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin: 5px;
+}
+
+.counts-edit {
+  color: #475569;
+  font-size: 20px;
+}
